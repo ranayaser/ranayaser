@@ -29,9 +29,10 @@ Passionate about Data Science, Machine Learning, and building impactful projects
 ### Currently Learning
 
 - Machine Learning
+- Deep Learning
 - Computer Vision
 - Data Analytics
-
+- Power BI
 ---
 
 ### Connect With Me
