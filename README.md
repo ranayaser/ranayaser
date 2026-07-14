@@ -4,7 +4,6 @@
 
 Passionate about Data Science, Machine Learning, and building impactful projects through code.
 
-Email: [ranaaayasser5@gmail.com](mailto:ranaaayasser5@gmail.com)
 ---
 
 ### About Me
@@ -34,6 +33,8 @@ Email: [ranaaayasser5@gmail.com](mailto:ranaaayasser5@gmail.com)
 - Computer Vision
 - Data Analytics
 - Power BI
+- Advanced SQL
+
 ---
 
 ### Connect With Me
@@ -42,7 +43,7 @@ Email: [ranaaayasser5@gmail.com](mailto:ranaaayasser5@gmail.com)
   <a href="https://linkedin.com/in/rana-yaser-821961327" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  
+
   <a href="https://github.com/ranayaser" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
