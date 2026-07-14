@@ -14,10 +14,14 @@ Passionate about Data Science, Machine Learning, and building impactful projects
 
 ---
 
-### Tech Stack
+## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js,git,github,vscode,tensorflow,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,sqlite,html,css,js,git,github,vscode,tensorflow,pytorch,opencv,linux,anaconda,figma,ps" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter,mssql" />
 </p>
 
 ---
