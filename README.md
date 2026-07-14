@@ -36,13 +36,7 @@ Passionate about Data Science, Machine Learning, and building impactful projects
   <a href="https://linkedin.com/in/rana-yaser-821961327" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-
-  <a href="mailto:ranaaayasser5@gmail.com">
-
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-
-  </a>
-
+  
   <a href="https://github.com/ranayaser" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
